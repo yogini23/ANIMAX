@@ -1,1 +1,1 @@
-# ANIMAX
+# COE_S39_S40_Boilerplate
